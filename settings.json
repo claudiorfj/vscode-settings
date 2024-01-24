@@ -81,7 +81,6 @@
     "**\/.svn": true,
     "**\/.git": true,
     ".vscode": true
-    // "node_modules": true
   },
   "workbench.iconTheme": "symbols",
   "update.mode": "start",
